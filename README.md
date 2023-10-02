@@ -1,1 +1,1 @@
-# Hotel-Bookings-Analysis-in-ML
+# Performed Exploratory Data Analysis on 'Hotel Bookings' dataset. The purpose is to find out the cancellation rates and my analysis of cancellation rates provided valuable information for business decision-making.
